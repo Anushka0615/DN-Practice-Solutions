@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\retailinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\retailinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit0001\\source\\repos\\retailinventory\\retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BEE588-5186-4A49-993B-3D90AE429B43}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "RetailInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:35:30.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "RetailInventory\\appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\appsettings.json",
+              "RelativeToolTip": "RetailInventory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T06:01:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventory\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:46:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetailInventory",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\RetailInventory.csproj",
+              "RelativeDocumentMoniker": "RetailInventory\\RetailInventory.csproj",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\RetailInventory.csproj",
+              "RelativeToolTip": "RetailInventory\\RetailInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T05:45:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:45:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:44:53.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

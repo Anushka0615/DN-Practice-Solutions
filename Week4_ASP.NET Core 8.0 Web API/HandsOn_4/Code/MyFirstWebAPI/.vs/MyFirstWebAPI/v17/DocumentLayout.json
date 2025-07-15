@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\filters\\customexceptionfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customexceptionfilter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit0001\\source\\repos\\myfirstwebapi\\myfirstwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D593C18-9091-4EF2-A9C8-BBC60E9353E5}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionFilter.cs.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:15:16.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:12:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyFirstWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "RelativeToolTip": "MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T15:11:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:02:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:47:52.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:01:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:30:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\KIIT0001\\Source\\Repos\\MyFirstWebAPI\\MyFirstWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:21:06.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
